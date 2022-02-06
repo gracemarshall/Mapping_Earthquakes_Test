@@ -10,5 +10,5 @@ The purpose of the earthquake analysis is to see the earthquake data in relation
 ### Deliverable 2 Magnitude of Major Earthquakes
 ![TP&EQ](https://github.com/gracemarshall/Mapping_Earthquakes/blob/main/Deliverable2a.png)
 
-### Deliverable 2 Add an Additional Map 
+### Deliverable 3 Add an Additional Map 
 ![TP&EQ](https://github.com/gracemarshall/Mapping_Earthquakes/blob/main/Deliverable3.png)
